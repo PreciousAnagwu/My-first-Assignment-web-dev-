@@ -1,6 +1,6 @@
 # MY ASSIGNMENT ON  HTML5 + Accessibility & SEO 
 
-## 📌 Project Title: GlowCrest Jewels
+## Project Title: GlowCrest Jewels
 
 This is my first assignment for the PLP Academy Web Development track. The project focuses on building a simple, semantically correct web page that applies foundational principles of:
 
