@@ -30,5 +30,4 @@ Click the link below to view the live version of this project on GitHub Pages:
 
 ---
 
-## 📁 Folder Structure
 
